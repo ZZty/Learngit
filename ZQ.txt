@@ -1,4 +1,8 @@
 Lazy ZQ
 Boring
 fuck
-Come on baby
+<<<<<<< HEAD
+Come on
+=======
+Come on
+>>>>>>> f1
