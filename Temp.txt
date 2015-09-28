@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Test2
 Nothing at all
 
+=======
+Test
+shenmegui
+>>>>>>> dev
